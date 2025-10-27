@@ -1,3 +1,5 @@
+Author - Pratham Parikh
+
 Credit Card Fraud Detection
 
 Project: Credit Card Fraud Detection & Expense Analysis
