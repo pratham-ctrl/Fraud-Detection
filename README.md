@@ -169,8 +169,8 @@ print(f"Transaction Status: {result}")
 
 This project is open-source and available under the **MIT License**.
 
-\<div align="center"\>
-\<small\>Made with ❤️ by \<a href="https://www.google.com/search?q=https://github.com/pratham-ctrl"\>Pratham Parikh\</a\>\</small\>
-\</div\>
+<div align="center">
+  <small>Built with ☕ and Python by <a href="https://github.com/pratham-ctrl">Pratham Parikh</a></small>
+</div>
 
 ```
